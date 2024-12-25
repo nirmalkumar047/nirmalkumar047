@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nirmalkumar047
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning M.E.R.N
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source that deals with Web development
 - 📫 How to reach me akkinapallikumar@gmail.com
 - 😄 Pronouns: Be your ICON
 - ⚡ Fun fact: Everything isn't impossible
