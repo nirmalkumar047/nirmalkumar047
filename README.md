@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning M.E.R.N
 - 💞️ I’m looking to collaborate on open source that deals with Web development
 - 📫 How to reach me akkinapallikumar@gmail.com
-- 😄 Pronouns: Be your ICON
-- ⚡ Fun fact: Everything isn't impossible
+- 😄 Be your ICON
+- 
 
 <!---
 nirmalkumar047/nirmalkumar047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
