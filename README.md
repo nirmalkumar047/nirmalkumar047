@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open source that deals with Web development
 - 📫 How to reach me akkinapallikumar@gmail.com
 - 😄 Be your ICON
-- 
 
 <!---
 nirmalkumar047/nirmalkumar047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
