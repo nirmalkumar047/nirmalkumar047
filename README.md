@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on open source that deals with Web development
 - 📫 How to reach me akkinapallikumar@gmail.com
 - 😄 Be your ICON
+- ## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nirmal_kumar__002)
+
 
 <!---
 nirmalkumar047/nirmalkumar047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
