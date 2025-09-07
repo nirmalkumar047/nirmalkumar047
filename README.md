@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirmalkumara02/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nirmal_kumar__002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=for-the-badge&logo=google-chrome)]([https://yourwebsite.com](https://nirmal-kumar-full-stack-developer-9.vercel.app/)) 
 
 ---
 
