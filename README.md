@@ -31,7 +31,7 @@
 
 ## 🚀 GitHub Stats
 
-![Nirmal GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=radical)
+![Nirmal GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalkumar047&show_icons=true&count_private=true&theme=radical)
 
 ---
 
@@ -39,8 +39,8 @@
 
 <!-- Replace YOUR-USERNAME in the URLs below -->
 <p align="left">
-  <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nirmalkumar047&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkumar047&layout=compact&theme=tokyonight" />
 </p>
 
 
