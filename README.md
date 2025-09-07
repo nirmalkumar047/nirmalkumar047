@@ -29,12 +29,6 @@
 
 ---
 
-## 🚀 GitHub Stats
-
-![Nirmal GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalkumar047&show_icons=true&count_private=true&theme=radical)
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Replace YOUR-USERNAME in the URLs below -->
@@ -42,7 +36,6 @@
   <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nirmalkumar047&show_icons=true&include_all_commits=true&theme=tokyonight" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkumar047&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## ✨ Open Source & Contributions
 - Maintainer of [some-repo](https://github.com/YOUR-USERNAME/some-repo)
