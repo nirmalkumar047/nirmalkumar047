@@ -1,5 +1,5 @@
 
-# 👋 Hi, This is [Nirmal Kumar] — Full Stack Developer | Open Source Enthusiast | Problem Solver 🚀
+# 👋 Hi, This is Nirmal Kumar — Full Stack Developer | Open Source Enthusiast | Problem Solver 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirmalkumara02/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nirmal_kumar__002)
